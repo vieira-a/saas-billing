@@ -1,3 +1,4 @@
+```
 graph TD
 %% Definindo Bounded Contexts
 A[Billing Context]
@@ -20,3 +21,4 @@ E[User Management Context]
     %% Bounded Contexts representations
     class A,B,C,D,E circle
     classDef circle fill:#f9f,stroke:#333,stroke-width:2px;
+```
