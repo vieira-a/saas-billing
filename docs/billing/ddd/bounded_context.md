@@ -1,4 +1,4 @@
-```
+```mermaid
 graph TD
 %% Definindo Bounded Contexts
 A[Billing Context]
